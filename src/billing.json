@@ -1,0 +1,14 @@
+{
+    "en": {
+        "test": {
+            "id": "LBL0001",
+            "label": "my text"
+        }
+    },
+    "fr": {
+        "test": {
+            "id": "LBL0001",
+            "label": "mon texte"
+        }
+    }
+}
