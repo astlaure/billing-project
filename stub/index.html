@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<body ng-app="app">
-    <billing></billing>
+<body ng-app="app" ng-controller="AppController as vm">
+    <billing fetch-service="vm.HttpService" config="vm.config"></billing>
 </body>
 </html>

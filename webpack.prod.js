@@ -20,6 +20,7 @@ const configuration = {
         rules: [
             { test: /\.ts/, exclude: /node_modules/, loader: 'ts-loader' },
             { test: /\.html/, exclude: /node_modules/, loader: 'html-loader' },
+            { test: /\.scss$/, use: ['style-loader', 'css-loader', 'sass-loader'] },
         ]
     }
 }
