@@ -1,9 +1,9 @@
 declare module "*.html" {
-    const content: string;
-    export default content;
+  const content: string;
+  export default content;
 }
 
 declare module "*.json" {
-    const value: any;
-    export default value;
+  const value: any;
+  export default value;
 }

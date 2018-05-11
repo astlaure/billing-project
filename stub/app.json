@@ -1,14 +1,14 @@
 {
-    "en": {
-        "app": {
-            "id": "LBL0001",
-            "test": "my test"
-        }
-    },
-    "fr": {
-        "app": {
-            "id": "LBL0001",
-            "test": "mon test"
-        }
+  "en": {
+    "app": {
+      "id": "LBL0001",
+      "test": "my test"
     }
+  },
+  "fr": {
+    "app": {
+      "id": "LBL0001",
+      "test": "mon test"
+    }
+  }
 }
